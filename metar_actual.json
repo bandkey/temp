@@ -1,6 +1,6 @@
 {
-  "generatedAtUtc": "2026-07-11T14:09:59.509714Z",
-  "expectedHourUtc": "2026071113",
+  "generatedAtUtc": "2026-07-11T15:09:59.217168Z",
+  "expectedHourUtc": "2026071114",
   "pendingFreshUpdate": false,
   "data": [
     {
@@ -8,13 +8,13 @@
       "label": "Aeroparque",
       "icaoId": "SABE",
       "station_id": "SABE",
-      "rawOb": "111400Z VRB02KT 9999 FEW049 BKN080 11/08 Q1019 NOSIG",
-      "raw_text": "111400Z VRB02KT 9999 FEW049 BKN080 11/08 Q1019 NOSIG",
-      "obsTime": "2026-07-11T14:00:00Z",
+      "rawOb": "111500Z 22004KT 150V300 9999 FEW011 SCT036 BKN090 12/09 Q1018 NOSIG",
+      "raw_text": "111500Z 22004KT 150V300 9999 FEW011 SCT036 BKN090 12/09 Q1018 NOSIG",
+      "obsTime": "2026-07-11T15:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-07-11T14:09:59.509714Z",
-      "reportHourUtc": "2026071114",
-      "expectedHourUtc": "2026071113",
+      "updatedAt": "2026-07-11T15:09:59.217168Z",
+      "reportHourUtc": "2026071115",
+      "expectedHourUtc": "2026071114",
       "freshForExpectedHour": true,
       "error": null
     },
@@ -23,13 +23,13 @@
       "label": "Ezeiza",
       "icaoId": "SAEZ",
       "station_id": "SAEZ",
-      "rawOb": "111400Z 27005KT 9999 BKN010 11/10 Q1018 NOSIG",
-      "raw_text": "111400Z 27005KT 9999 BKN010 11/10 Q1018 NOSIG",
-      "obsTime": "2026-07-11T14:00:00Z",
+      "rawOb": "111500Z 24009KT 9999 BKN012 12/10 Q1018 NOSIG",
+      "raw_text": "111500Z 24009KT 9999 BKN012 12/10 Q1018 NOSIG",
+      "obsTime": "2026-07-11T15:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-07-11T14:09:59.509714Z",
-      "reportHourUtc": "2026071114",
-      "expectedHourUtc": "2026071113",
+      "updatedAt": "2026-07-11T15:09:59.217168Z",
+      "reportHourUtc": "2026071115",
+      "expectedHourUtc": "2026071114",
       "freshForExpectedHour": true,
       "error": null
     }
