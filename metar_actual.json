@@ -1,24 +1,24 @@
 {
-  "generatedAtUtc": "2026-07-27T19:09:59.581037Z",
-  "baseExpectedHourUtc": "2026072718",
-  "targetHourUtc": "2026072719",
-  "expectedHourUtc": "2026072719",
-  "pendingFreshUpdate": false,
+  "generatedAtUtc": "2026-07-27T20:09:59.538807Z",
+  "baseExpectedHourUtc": "2026072719",
+  "targetHourUtc": "2026072720",
+  "expectedHourUtc": "2026072720",
+  "pendingFreshUpdate": true,
   "data": [
     {
       "code": "AEP",
       "label": "Aeroparque",
       "icaoId": "SABE",
       "station_id": "SABE",
-      "rawOb": "271900Z 01004KT 340V070 9999 FEW020 OVC049 17/14 Q1006 NOSIG",
-      "raw_text": "271900Z 01004KT 340V070 9999 FEW020 OVC049 17/14 Q1006 NOSIG",
-      "obsTime": "2026-07-27T19:00:00Z",
+      "rawOb": "272000Z VRB02KT 9999 FEW049 17/14 Q1006 NOSIG",
+      "raw_text": "272000Z VRB02KT 9999 FEW049 17/14 Q1006 NOSIG",
+      "obsTime": "2026-07-27T20:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-07-27T19:09:59.581037Z",
-      "reportHourUtc": "2026072719",
-      "baseExpectedHourUtc": "2026072718",
-      "targetHourUtc": "2026072719",
-      "expectedHourUtc": "2026072719",
+      "updatedAt": "2026-07-27T20:09:59.538807Z",
+      "reportHourUtc": "2026072720",
+      "baseExpectedHourUtc": "2026072719",
+      "targetHourUtc": "2026072720",
+      "expectedHourUtc": "2026072720",
       "freshForExpectedHour": true,
       "error": null
     },
@@ -31,13 +31,13 @@
       "raw_text": "271900Z 09004KT 9999 FEW025 BKN047 18/14 Q1006 NOSIG",
       "obsTime": "2026-07-27T19:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-07-27T19:09:59.581037Z",
+      "updatedAt": "2026-07-27T20:09:59.538807Z",
       "reportHourUtc": "2026072719",
-      "baseExpectedHourUtc": "2026072718",
-      "targetHourUtc": "2026072719",
-      "expectedHourUtc": "2026072719",
-      "freshForExpectedHour": true,
-      "error": null
+      "baseExpectedHourUtc": "2026072719",
+      "targetHourUtc": "2026072720",
+      "expectedHourUtc": "2026072720",
+      "freshForExpectedHour": false,
+      "error": "Esperando actualización de 2026072720…"
     }
   ]
 }
