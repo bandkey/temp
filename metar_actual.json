@@ -1,6 +1,6 @@
 {
-  "generatedAtUtc": "2026-08-03T13:09:59.797656Z",
-  "baseExpectedHourUtc": "2026080312",
+  "generatedAtUtc": "2026-08-03T13:11:03.005094Z",
+  "baseExpectedHourUtc": "2026080313",
   "targetHourUtc": "2026080313",
   "expectedHourUtc": "2026080313",
   "pendingFreshUpdate": true,
@@ -14,9 +14,9 @@
       "raw_text": "031300Z 10007KT 9999 OVC006 15/13 Q1017 RETS NOSIG",
       "obsTime": "2026-08-03T13:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-08-03T13:09:59.797656Z",
+      "updatedAt": "2026-08-03T13:11:03.005094Z",
       "reportHourUtc": "2026080313",
-      "baseExpectedHourUtc": "2026080312",
+      "baseExpectedHourUtc": "2026080313",
       "targetHourUtc": "2026080313",
       "expectedHourUtc": "2026080313",
       "freshForExpectedHour": true,
@@ -31,13 +31,13 @@
       "raw_text": "031200Z 11005KT 2000 -RA BR SCT030 SCT100 14/14 Q1016 NOSIG",
       "obsTime": "2026-08-03T12:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-08-03T13:09:59.797656Z",
+      "updatedAt": "2026-08-03T13:11:03.005094Z",
       "reportHourUtc": "2026080312",
-      "baseExpectedHourUtc": "2026080312",
+      "baseExpectedHourUtc": "2026080313",
       "targetHourUtc": "2026080313",
       "expectedHourUtc": "2026080313",
       "freshForExpectedHour": false,
-      "error": "Esperando actualización de 2026080313…"
+      "error": "Error consultando SAEZ: <urlopen error timed out>"
     }
   ]
 }
