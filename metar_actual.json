@@ -1,9 +1,9 @@
 {
-  "generatedAtUtc": "2026-08-07T19:09:59.334865Z",
-  "baseExpectedHourUtc": "2026080718",
+  "generatedAtUtc": "2026-08-07T19:11:25.765166Z",
+  "baseExpectedHourUtc": "2026080719",
   "targetHourUtc": "2026080719",
   "expectedHourUtc": "2026080719",
-  "pendingFreshUpdate": true,
+  "pendingFreshUpdate": false,
   "data": [
     {
       "code": "AEP",
@@ -14,9 +14,9 @@
       "raw_text": "071900Z 31009KT 260V350 9999 FEW044 13/03 Q1010 NOSIG",
       "obsTime": "2026-08-07T19:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-08-07T19:09:59.334865Z",
+      "updatedAt": "2026-08-07T19:11:25.765166Z",
       "reportHourUtc": "2026080719",
-      "baseExpectedHourUtc": "2026080718",
+      "baseExpectedHourUtc": "2026080719",
       "targetHourUtc": "2026080719",
       "expectedHourUtc": "2026080719",
       "freshForExpectedHour": true,
@@ -27,17 +27,17 @@
       "label": "Ezeiza",
       "icaoId": "SAEZ",
       "station_id": "SAEZ",
-      "rawOb": "071800Z 30014KT 9999 SCT042 14/05 Q1010 NOSIG",
-      "raw_text": "071800Z 30014KT 9999 SCT042 14/05 Q1010 NOSIG",
-      "obsTime": "2026-08-07T18:00:00Z",
+      "rawOb": "071900Z 30011KT CAVOK 14/05 Q1009 NOSIG",
+      "raw_text": "071900Z 30011KT CAVOK 14/05 Q1009 NOSIG",
+      "obsTime": "2026-08-07T19:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-08-07T19:09:59.334865Z",
-      "reportHourUtc": "2026080718",
-      "baseExpectedHourUtc": "2026080718",
+      "updatedAt": "2026-08-07T19:11:25.765166Z",
+      "reportHourUtc": "2026080719",
+      "baseExpectedHourUtc": "2026080719",
       "targetHourUtc": "2026080719",
       "expectedHourUtc": "2026080719",
-      "freshForExpectedHour": false,
-      "error": "Error consultando SAEZ: <urlopen error _ssl.c:990: The handshake operation timed out>"
+      "freshForExpectedHour": true,
+      "error": null
     }
   ]
 }
