@@ -1,24 +1,24 @@
 {
-  "generatedAtUtc": "2026-08-20T21:09:59.384044Z",
-  "baseExpectedHourUtc": "2026082020",
-  "targetHourUtc": "2026082021",
-  "expectedHourUtc": "2026082021",
-  "pendingFreshUpdate": false,
+  "generatedAtUtc": "2026-08-20T22:10:00.044208Z",
+  "baseExpectedHourUtc": "2026082022",
+  "targetHourUtc": "2026082022",
+  "expectedHourUtc": "2026082022",
+  "pendingFreshUpdate": true,
   "data": [
     {
       "code": "AEP",
       "label": "Aeroparque",
       "icaoId": "SABE",
       "station_id": "SABE",
-      "rawOb": "202100Z 25004KT 200V300 CAVOK 19/06 Q1011 NOSIG",
-      "raw_text": "202100Z 25004KT 200V300 CAVOK 19/06 Q1011 NOSIG",
-      "obsTime": "2026-08-20T21:00:00Z",
+      "rawOb": "202200Z VRB04KT CAVOK 17/06 Q1012 NOSIG",
+      "raw_text": "202200Z VRB04KT CAVOK 17/06 Q1012 NOSIG",
+      "obsTime": "2026-08-20T22:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-08-20T21:09:59.384044Z",
-      "reportHourUtc": "2026082021",
-      "baseExpectedHourUtc": "2026082020",
-      "targetHourUtc": "2026082021",
-      "expectedHourUtc": "2026082021",
+      "updatedAt": "2026-08-20T22:10:00.044208Z",
+      "reportHourUtc": "2026082022",
+      "baseExpectedHourUtc": "2026082022",
+      "targetHourUtc": "2026082022",
+      "expectedHourUtc": "2026082022",
       "freshForExpectedHour": true,
       "error": null
     },
@@ -31,13 +31,13 @@
       "raw_text": "202100Z 23007KT CAVOK 18/07 Q1011 NOSIG",
       "obsTime": "2026-08-20T21:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-08-20T21:09:59.384044Z",
+      "updatedAt": "2026-08-20T22:10:00.044208Z",
       "reportHourUtc": "2026082021",
-      "baseExpectedHourUtc": "2026082020",
-      "targetHourUtc": "2026082021",
-      "expectedHourUtc": "2026082021",
-      "freshForExpectedHour": true,
-      "error": null
+      "baseExpectedHourUtc": "2026082022",
+      "targetHourUtc": "2026082022",
+      "expectedHourUtc": "2026082022",
+      "freshForExpectedHour": false,
+      "error": "Esperando actualización de 2026082022…"
     }
   ]
 }
