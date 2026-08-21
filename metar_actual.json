@@ -1,24 +1,24 @@
 {
-  "generatedAtUtc": "2026-08-21T11:09:59.327915Z",
-  "baseExpectedHourUtc": "2026082110",
-  "targetHourUtc": "2026082111",
-  "expectedHourUtc": "2026082111",
-  "pendingFreshUpdate": false,
+  "generatedAtUtc": "2026-08-21T12:09:59.431863Z",
+  "baseExpectedHourUtc": "2026082111",
+  "targetHourUtc": "2026082112",
+  "expectedHourUtc": "2026082112",
+  "pendingFreshUpdate": true,
   "data": [
     {
       "code": "AEP",
       "label": "Aeroparque",
       "icaoId": "SABE",
       "station_id": "SABE",
-      "rawOb": "211100Z 18004KT 120V230 CAVOK 07/03 Q1023 NOSIG",
-      "raw_text": "211100Z 18004KT 120V230 CAVOK 07/03 Q1023 NOSIG",
-      "obsTime": "2026-08-21T11:00:00Z",
+      "rawOb": "211200Z 16007KT 130V220 CAVOK 07/02 Q1024 NOSIG",
+      "raw_text": "211200Z 16007KT 130V220 CAVOK 07/02 Q1024 NOSIG",
+      "obsTime": "2026-08-21T12:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-08-21T11:09:59.327915Z",
-      "reportHourUtc": "2026082111",
-      "baseExpectedHourUtc": "2026082110",
-      "targetHourUtc": "2026082111",
-      "expectedHourUtc": "2026082111",
+      "updatedAt": "2026-08-21T12:09:59.431863Z",
+      "reportHourUtc": "2026082112",
+      "baseExpectedHourUtc": "2026082111",
+      "targetHourUtc": "2026082112",
+      "expectedHourUtc": "2026082112",
       "freshForExpectedHour": true,
       "error": null
     },
@@ -31,13 +31,13 @@
       "raw_text": "211100Z 23004KT CAVOK 05/04 Q1023 NOSIG",
       "obsTime": "2026-08-21T11:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-08-21T11:09:59.327915Z",
+      "updatedAt": "2026-08-21T12:09:59.431863Z",
       "reportHourUtc": "2026082111",
-      "baseExpectedHourUtc": "2026082110",
-      "targetHourUtc": "2026082111",
-      "expectedHourUtc": "2026082111",
-      "freshForExpectedHour": true,
-      "error": null
+      "baseExpectedHourUtc": "2026082111",
+      "targetHourUtc": "2026082112",
+      "expectedHourUtc": "2026082112",
+      "freshForExpectedHour": false,
+      "error": "Esperando actualización de 2026082112…"
     }
   ]
 }
