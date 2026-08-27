@@ -1,9 +1,9 @@
 {
-  "generatedAtUtc": "2026-08-27T09:18:23.649320Z",
+  "generatedAtUtc": "2026-08-27T09:19:26.320424Z",
   "baseExpectedHourUtc": "2026082709",
   "targetHourUtc": "2026082709",
   "expectedHourUtc": "2026082709",
-  "pendingFreshUpdate": true,
+  "pendingFreshUpdate": false,
   "data": [
     {
       "code": "AEP",
@@ -14,7 +14,7 @@
       "raw_text": "270915Z VRB07G18KT 3000 TSRA SCT010 OVC042 FEW045CB 13/11 Q1007 TEMPO 5000 TSRA BKN008 OVC040 FEW040CB",
       "obsTime": "2026-08-27T09:15:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-08-27T09:18:23.649320Z",
+      "updatedAt": "2026-08-27T09:19:26.320424Z",
       "reportHourUtc": "2026082709",
       "baseExpectedHourUtc": "2026082709",
       "targetHourUtc": "2026082709",
@@ -27,17 +27,17 @@
       "label": "Ezeiza",
       "icaoId": "SAEZ",
       "station_id": "SAEZ",
-      "rawOb": "270800Z 17009KT 130V210 5000 -RA BR SCT010 OVC050 12/12 Q1006 TEMPO 3000 TSRA SCT010 BKN050 FEW050CB",
-      "raw_text": "270800Z 17009KT 130V210 5000 -RA BR SCT010 OVC050 12/12 Q1006 TEMPO 3000 TSRA SCT010 BKN050 FEW050CB",
-      "obsTime": "2026-08-27T08:00:00Z",
+      "rawOb": "270900Z 18008G18KT 130V220 5000 TSRA BR FEW008 OVC040 FEW050CB 12/12 Q1006 TEMPO 3000 TSRA SCT010 BKN050 FEW050CB",
+      "raw_text": "270900Z 18008G18KT 130V220 5000 TSRA BR FEW008 OVC040 FEW050CB 12/12 Q1006 TEMPO 3000 TSRA SCT010 BKN050 FEW050CB",
+      "obsTime": "2026-08-27T09:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-08-27T09:18:23.649320Z",
-      "reportHourUtc": "2026082708",
+      "updatedAt": "2026-08-27T09:19:26.320424Z",
+      "reportHourUtc": "2026082709",
       "baseExpectedHourUtc": "2026082709",
       "targetHourUtc": "2026082709",
       "expectedHourUtc": "2026082709",
-      "freshForExpectedHour": false,
-      "error": "Esperando actualización de 2026082709…"
+      "freshForExpectedHour": true,
+      "error": null
     }
   ]
 }
