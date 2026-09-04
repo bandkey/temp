@@ -1,24 +1,24 @@
 {
-  "generatedAtUtc": "2026-09-04T14:09:59.436095Z",
-  "baseExpectedHourUtc": "2026090413",
-  "targetHourUtc": "2026090414",
-  "expectedHourUtc": "2026090414",
-  "pendingFreshUpdate": false,
+  "generatedAtUtc": "2026-09-04T15:09:59.355517Z",
+  "baseExpectedHourUtc": "2026090414",
+  "targetHourUtc": "2026090415",
+  "expectedHourUtc": "2026090415",
+  "pendingFreshUpdate": true,
   "data": [
     {
       "code": "AEP",
       "label": "Aeroparque",
       "icaoId": "SABE",
       "station_id": "SABE",
-      "rawOb": "041400Z 22006KT 140V280 CAVOK 14/02 Q1019 NOSIG",
-      "raw_text": "041400Z 22006KT 140V280 CAVOK 14/02 Q1019 NOSIG",
-      "obsTime": "2026-09-04T14:00:00Z",
+      "rawOb": "041500Z 27005KT 210V350 CAVOK 15/01 Q1019 NOSIG",
+      "raw_text": "041500Z 27005KT 210V350 CAVOK 15/01 Q1019 NOSIG",
+      "obsTime": "2026-09-04T15:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-09-04T14:09:59.436095Z",
-      "reportHourUtc": "2026090414",
-      "baseExpectedHourUtc": "2026090413",
-      "targetHourUtc": "2026090414",
-      "expectedHourUtc": "2026090414",
+      "updatedAt": "2026-09-04T15:09:59.355517Z",
+      "reportHourUtc": "2026090415",
+      "baseExpectedHourUtc": "2026090414",
+      "targetHourUtc": "2026090415",
+      "expectedHourUtc": "2026090415",
       "freshForExpectedHour": true,
       "error": null
     },
@@ -31,13 +31,13 @@
       "raw_text": "041400Z 29007KT CAVOK 14/04 Q1019 NOSIG",
       "obsTime": "2026-09-04T14:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-09-04T14:09:59.436095Z",
+      "updatedAt": "2026-09-04T15:09:59.355517Z",
       "reportHourUtc": "2026090414",
-      "baseExpectedHourUtc": "2026090413",
-      "targetHourUtc": "2026090414",
-      "expectedHourUtc": "2026090414",
-      "freshForExpectedHour": true,
-      "error": null
+      "baseExpectedHourUtc": "2026090414",
+      "targetHourUtc": "2026090415",
+      "expectedHourUtc": "2026090415",
+      "freshForExpectedHour": false,
+      "error": "Esperando actualización de 2026090415…"
     }
   ]
 }
