@@ -1,24 +1,24 @@
 {
-  "generatedAtUtc": "2026-09-27T12:09:59.551727Z",
-  "baseExpectedHourUtc": "2026092711",
-  "targetHourUtc": "2026092712",
-  "expectedHourUtc": "2026092712",
-  "pendingFreshUpdate": false,
+  "generatedAtUtc": "2026-09-27T13:09:59.772254Z",
+  "baseExpectedHourUtc": "2026092712",
+  "targetHourUtc": "2026092713",
+  "expectedHourUtc": "2026092713",
+  "pendingFreshUpdate": true,
   "data": [
     {
       "code": "AEP",
       "label": "Aeroparque",
       "icaoId": "SABE",
       "station_id": "SABE",
-      "rawOb": "271200Z 09017KT CAVOK 16/09 Q1017 NOSIG",
-      "raw_text": "271200Z 09017KT CAVOK 16/09 Q1017 NOSIG",
-      "obsTime": "2026-09-27T12:00:00Z",
+      "rawOb": "271300Z 08014KT CAVOK 16/09 Q1016 TEMPO 7000 -TSRA BKN030 FEW040CB OVC060",
+      "raw_text": "271300Z 08014KT CAVOK 16/09 Q1016 TEMPO 7000 -TSRA BKN030 FEW040CB OVC060",
+      "obsTime": "2026-09-27T13:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-09-27T12:09:59.551727Z",
-      "reportHourUtc": "2026092712",
-      "baseExpectedHourUtc": "2026092711",
-      "targetHourUtc": "2026092712",
-      "expectedHourUtc": "2026092712",
+      "updatedAt": "2026-09-27T13:09:59.772254Z",
+      "reportHourUtc": "2026092713",
+      "baseExpectedHourUtc": "2026092712",
+      "targetHourUtc": "2026092713",
+      "expectedHourUtc": "2026092713",
       "freshForExpectedHour": true,
       "error": null
     },
@@ -31,13 +31,13 @@
       "raw_text": "271200Z 06021G32KT 8000 FEW030 BKN100 BKN200 17/07 Q1015 NOSIG",
       "obsTime": "2026-09-27T12:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-09-27T12:09:59.551727Z",
+      "updatedAt": "2026-09-27T13:09:59.772254Z",
       "reportHourUtc": "2026092712",
-      "baseExpectedHourUtc": "2026092711",
-      "targetHourUtc": "2026092712",
-      "expectedHourUtc": "2026092712",
-      "freshForExpectedHour": true,
-      "error": null
+      "baseExpectedHourUtc": "2026092712",
+      "targetHourUtc": "2026092713",
+      "expectedHourUtc": "2026092713",
+      "freshForExpectedHour": false,
+      "error": "Esperando actualización de 2026092713…"
     }
   ]
 }
