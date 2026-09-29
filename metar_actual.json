@@ -1,9 +1,9 @@
 {
-  "generatedAtUtc": "2026-09-29T13:09:59.876036Z",
-  "baseExpectedHourUtc": "2026092912",
+  "generatedAtUtc": "2026-09-29T13:11:03.103469Z",
+  "baseExpectedHourUtc": "2026092913",
   "targetHourUtc": "2026092913",
   "expectedHourUtc": "2026092913",
-  "pendingFreshUpdate": true,
+  "pendingFreshUpdate": false,
   "data": [
     {
       "code": "AEP",
@@ -14,9 +14,9 @@
       "raw_text": "291300Z 21007KT 170V250 3000 DZ OVC006 15/14 Q1009 BECMG 20010G20KT",
       "obsTime": "2026-09-29T13:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-09-29T13:09:59.876036Z",
+      "updatedAt": "2026-09-29T13:11:03.103469Z",
       "reportHourUtc": "2026092913",
-      "baseExpectedHourUtc": "2026092912",
+      "baseExpectedHourUtc": "2026092913",
       "targetHourUtc": "2026092913",
       "expectedHourUtc": "2026092913",
       "freshForExpectedHour": true,
@@ -27,17 +27,17 @@
       "label": "Ezeiza",
       "icaoId": "SAEZ",
       "station_id": "SAEZ",
-      "rawOb": "291212Z 21009G20KT 180V240 3000 DZ OVC005 15/14 Q1009 NOSIG",
-      "raw_text": "291212Z 21009G20KT 180V240 3000 DZ OVC005 15/14 Q1009 NOSIG",
-      "obsTime": "2026-09-29T12:12:00Z",
+      "rawOb": "291300Z 21007KT 3000 -DZ BR BKN007 OVC013 15/14 Q1009 REDZ NOSIG",
+      "raw_text": "291300Z 21007KT 3000 -DZ BR BKN007 OVC013 15/14 Q1009 REDZ NOSIG",
+      "obsTime": "2026-09-29T13:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-09-29T13:09:59.876036Z",
-      "reportHourUtc": "2026092912",
-      "baseExpectedHourUtc": "2026092912",
+      "updatedAt": "2026-09-29T13:11:03.103469Z",
+      "reportHourUtc": "2026092913",
+      "baseExpectedHourUtc": "2026092913",
       "targetHourUtc": "2026092913",
       "expectedHourUtc": "2026092913",
-      "freshForExpectedHour": false,
-      "error": "Esperando actualización de 2026092913…"
+      "freshForExpectedHour": true,
+      "error": null
     }
   ]
 }
