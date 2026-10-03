@@ -1,24 +1,24 @@
 {
-  "generatedAtUtc": "2026-10-03T18:09:59.427645Z",
-  "baseExpectedHourUtc": "2026100317",
-  "targetHourUtc": "2026100318",
-  "expectedHourUtc": "2026100318",
-  "pendingFreshUpdate": false,
+  "generatedAtUtc": "2026-10-03T19:09:59.555678Z",
+  "baseExpectedHourUtc": "2026100318",
+  "targetHourUtc": "2026100319",
+  "expectedHourUtc": "2026100319",
+  "pendingFreshUpdate": true,
   "data": [
     {
       "code": "AEP",
       "label": "Aeroparque",
       "icaoId": "SABE",
       "station_id": "SABE",
-      "rawOb": "031800Z 35007KT 280V020 9999 SCT011 BKN040 16/13 Q1009 NOSIG",
-      "raw_text": "031800Z 35007KT 280V020 9999 SCT011 BKN040 16/13 Q1009 NOSIG",
-      "obsTime": "2026-10-03T18:00:00Z",
+      "rawOb": "031900Z 01005KT 330V050 9999 FEW020 15/12 Q1008 NOSIG",
+      "raw_text": "031900Z 01005KT 330V050 9999 FEW020 15/12 Q1008 NOSIG",
+      "obsTime": "2026-10-03T19:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-10-03T18:09:59.427645Z",
-      "reportHourUtc": "2026100318",
-      "baseExpectedHourUtc": "2026100317",
-      "targetHourUtc": "2026100318",
-      "expectedHourUtc": "2026100318",
+      "updatedAt": "2026-10-03T19:09:59.555678Z",
+      "reportHourUtc": "2026100319",
+      "baseExpectedHourUtc": "2026100318",
+      "targetHourUtc": "2026100319",
+      "expectedHourUtc": "2026100319",
       "freshForExpectedHour": true,
       "error": null
     },
@@ -31,13 +31,13 @@
       "raw_text": "031800Z 32006KT 9999 SCT015 BKN035 18/13 Q1008 NOSIG",
       "obsTime": "2026-10-03T18:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-10-03T18:09:59.427645Z",
+      "updatedAt": "2026-10-03T19:09:59.555678Z",
       "reportHourUtc": "2026100318",
-      "baseExpectedHourUtc": "2026100317",
-      "targetHourUtc": "2026100318",
-      "expectedHourUtc": "2026100318",
-      "freshForExpectedHour": true,
-      "error": null
+      "baseExpectedHourUtc": "2026100318",
+      "targetHourUtc": "2026100319",
+      "expectedHourUtc": "2026100319",
+      "freshForExpectedHour": false,
+      "error": "Esperando actualización de 2026100319…"
     }
   ]
 }
