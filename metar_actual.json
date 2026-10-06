@@ -1,24 +1,24 @@
 {
-  "generatedAtUtc": "2026-10-06T15:10:00.043472Z",
+  "generatedAtUtc": "2026-10-06T16:09:59.243584Z",
   "baseExpectedHourUtc": "2026100615",
-  "targetHourUtc": "2026100615",
-  "expectedHourUtc": "2026100615",
-  "pendingFreshUpdate": false,
+  "targetHourUtc": "2026100616",
+  "expectedHourUtc": "2026100616",
+  "pendingFreshUpdate": true,
   "data": [
     {
       "code": "AEP",
       "label": "Aeroparque",
       "icaoId": "SABE",
       "station_id": "SABE",
-      "rawOb": "061500Z 08005KT 050V110 CAVOK 17/11 Q1017 NOSIG",
-      "raw_text": "061500Z 08005KT 050V110 CAVOK 17/11 Q1017 NOSIG",
-      "obsTime": "2026-10-06T15:00:00Z",
+      "rawOb": "061600Z 09006KT 030V130 CAVOK 19/12 Q1016 NOSIG",
+      "raw_text": "061600Z 09006KT 030V130 CAVOK 19/12 Q1016 NOSIG",
+      "obsTime": "2026-10-06T16:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-10-06T15:10:00.043472Z",
-      "reportHourUtc": "2026100615",
+      "updatedAt": "2026-10-06T16:09:59.243584Z",
+      "reportHourUtc": "2026100616",
       "baseExpectedHourUtc": "2026100615",
-      "targetHourUtc": "2026100615",
-      "expectedHourUtc": "2026100615",
+      "targetHourUtc": "2026100616",
+      "expectedHourUtc": "2026100616",
       "freshForExpectedHour": true,
       "error": null
     },
@@ -31,13 +31,13 @@
       "raw_text": "061500Z 04008KT CAVOK 20/08 Q1016 NOSIG",
       "obsTime": "2026-10-06T15:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-10-06T15:10:00.043472Z",
+      "updatedAt": "2026-10-06T16:09:59.243584Z",
       "reportHourUtc": "2026100615",
       "baseExpectedHourUtc": "2026100615",
-      "targetHourUtc": "2026100615",
-      "expectedHourUtc": "2026100615",
-      "freshForExpectedHour": true,
-      "error": null
+      "targetHourUtc": "2026100616",
+      "expectedHourUtc": "2026100616",
+      "freshForExpectedHour": false,
+      "error": "Esperando actualización de 2026100616…"
     }
   ]
 }
