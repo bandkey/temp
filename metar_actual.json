@@ -1,24 +1,24 @@
 {
-  "generatedAtUtc": "2026-10-06T10:09:59.283791Z",
-  "baseExpectedHourUtc": "2026100609",
-  "targetHourUtc": "2026100610",
-  "expectedHourUtc": "2026100610",
-  "pendingFreshUpdate": false,
+  "generatedAtUtc": "2026-10-06T11:09:59.483016Z",
+  "baseExpectedHourUtc": "2026100610",
+  "targetHourUtc": "2026100611",
+  "expectedHourUtc": "2026100611",
+  "pendingFreshUpdate": true,
   "data": [
     {
       "code": "AEP",
       "label": "Aeroparque",
       "icaoId": "SABE",
       "station_id": "SABE",
-      "rawOb": "061000Z 05007KT CAVOK 17/10 Q1017 NOSIG",
-      "raw_text": "061000Z 05007KT CAVOK 17/10 Q1017 NOSIG",
-      "obsTime": "2026-10-06T10:00:00Z",
+      "rawOb": "061100Z 06006KT CAVOK 18/11 Q1017 NOSIG",
+      "raw_text": "061100Z 06006KT CAVOK 18/11 Q1017 NOSIG",
+      "obsTime": "2026-10-06T11:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-10-06T10:09:59.283791Z",
-      "reportHourUtc": "2026100610",
-      "baseExpectedHourUtc": "2026100609",
-      "targetHourUtc": "2026100610",
-      "expectedHourUtc": "2026100610",
+      "updatedAt": "2026-10-06T11:09:59.483016Z",
+      "reportHourUtc": "2026100611",
+      "baseExpectedHourUtc": "2026100610",
+      "targetHourUtc": "2026100611",
+      "expectedHourUtc": "2026100611",
       "freshForExpectedHour": true,
       "error": null
     },
@@ -31,13 +31,13 @@
       "raw_text": "061000Z 10004KT CAVOK 09/08 Q1016 NOSIG",
       "obsTime": "2026-10-06T10:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-10-06T10:09:59.283791Z",
+      "updatedAt": "2026-10-06T11:09:59.483016Z",
       "reportHourUtc": "2026100610",
-      "baseExpectedHourUtc": "2026100609",
-      "targetHourUtc": "2026100610",
-      "expectedHourUtc": "2026100610",
-      "freshForExpectedHour": true,
-      "error": null
+      "baseExpectedHourUtc": "2026100610",
+      "targetHourUtc": "2026100611",
+      "expectedHourUtc": "2026100611",
+      "freshForExpectedHour": false,
+      "error": "Esperando actualización de 2026100611…"
     }
   ]
 }
