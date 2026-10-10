@@ -1,24 +1,24 @@
 {
-  "generatedAtUtc": "2026-10-10T22:09:59.854552Z",
-  "baseExpectedHourUtc": "2026101021",
-  "targetHourUtc": "2026101022",
-  "expectedHourUtc": "2026101022",
-  "pendingFreshUpdate": false,
+  "generatedAtUtc": "2026-10-10T23:09:59.637990Z",
+  "baseExpectedHourUtc": "2026101022",
+  "targetHourUtc": "2026101023",
+  "expectedHourUtc": "2026101023",
+  "pendingFreshUpdate": true,
   "data": [
     {
       "code": "AEP",
       "label": "Aeroparque",
       "icaoId": "SABE",
       "station_id": "SABE",
-      "rawOb": "102200Z 16006KT 120V200 3000 DZ SCT007 OVC027 13/11 Q1022 TEMPO 5000 -DZ SCT008 OVC020",
-      "raw_text": "102200Z 16006KT 120V200 3000 DZ SCT007 OVC027 13/11 Q1022 TEMPO 5000 -DZ SCT008 OVC020",
-      "obsTime": "2026-10-10T22:00:00Z",
+      "rawOb": "102300Z 15006KT 130V190 9999 SCT007 OVC023 13/10 Q1022 NOSIG",
+      "raw_text": "102300Z 15006KT 130V190 9999 SCT007 OVC023 13/10 Q1022 NOSIG",
+      "obsTime": "2026-10-10T23:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-10-10T22:09:59.854552Z",
-      "reportHourUtc": "2026101022",
-      "baseExpectedHourUtc": "2026101021",
-      "targetHourUtc": "2026101022",
-      "expectedHourUtc": "2026101022",
+      "updatedAt": "2026-10-10T23:09:59.637990Z",
+      "reportHourUtc": "2026101023",
+      "baseExpectedHourUtc": "2026101022",
+      "targetHourUtc": "2026101023",
+      "expectedHourUtc": "2026101023",
       "freshForExpectedHour": true,
       "error": null
     },
@@ -31,13 +31,13 @@
       "raw_text": "102200Z 14002KT 9999 OVC030 12/11 Q1022 NOSIG",
       "obsTime": "2026-10-10T22:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-10-10T22:09:59.854552Z",
+      "updatedAt": "2026-10-10T23:09:59.637990Z",
       "reportHourUtc": "2026101022",
-      "baseExpectedHourUtc": "2026101021",
-      "targetHourUtc": "2026101022",
-      "expectedHourUtc": "2026101022",
-      "freshForExpectedHour": true,
-      "error": null
+      "baseExpectedHourUtc": "2026101022",
+      "targetHourUtc": "2026101023",
+      "expectedHourUtc": "2026101023",
+      "freshForExpectedHour": false,
+      "error": "Esperando actualización de 2026101023…"
     }
   ]
 }
