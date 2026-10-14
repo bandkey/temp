@@ -1,24 +1,24 @@
 {
-  "generatedAtUtc": "2026-10-14T12:04:08.693064Z",
+  "generatedAtUtc": "2026-10-14T12:09:59.440099Z",
   "baseExpectedHourUtc": "2026101411",
-  "targetHourUtc": "2026101411",
-  "expectedHourUtc": "2026101411",
-  "pendingFreshUpdate": false,
+  "targetHourUtc": "2026101412",
+  "expectedHourUtc": "2026101412",
+  "pendingFreshUpdate": true,
   "data": [
     {
       "code": "AEP",
       "label": "Aeroparque",
       "icaoId": "SABE",
       "station_id": "SABE",
-      "rawOb": "141100Z 17005KT 120V220 9000 BKN008 OVC019 14/11 Q1020 NOSIG",
-      "raw_text": "141100Z 17005KT 120V220 9000 BKN008 OVC019 14/11 Q1020 NOSIG",
-      "obsTime": "2026-10-14T11:00:00Z",
+      "rawOb": "141200Z 17004KT 120V220 9999 FEW010 SCT018 15/12 Q1021 NOSIG",
+      "raw_text": "141200Z 17004KT 120V220 9999 FEW010 SCT018 15/12 Q1021 NOSIG",
+      "obsTime": "2026-10-14T12:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-10-14T12:04:08.693064Z",
-      "reportHourUtc": "2026101411",
+      "updatedAt": "2026-10-14T12:09:59.440099Z",
+      "reportHourUtc": "2026101412",
       "baseExpectedHourUtc": "2026101411",
-      "targetHourUtc": "2026101411",
-      "expectedHourUtc": "2026101411",
+      "targetHourUtc": "2026101412",
+      "expectedHourUtc": "2026101412",
       "freshForExpectedHour": true,
       "error": null
     },
@@ -31,13 +31,13 @@
       "raw_text": "141130Z 16004KT 5000 -DZ BR OVC004 13/12 Q1021 TEMPO 2000 -DZ BR",
       "obsTime": "2026-10-14T11:30:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-10-14T12:04:08.693064Z",
+      "updatedAt": "2026-10-14T12:09:59.440099Z",
       "reportHourUtc": "2026101411",
       "baseExpectedHourUtc": "2026101411",
-      "targetHourUtc": "2026101411",
-      "expectedHourUtc": "2026101411",
-      "freshForExpectedHour": true,
-      "error": null
+      "targetHourUtc": "2026101412",
+      "expectedHourUtc": "2026101412",
+      "freshForExpectedHour": false,
+      "error": "Esperando actualización de 2026101412…"
     }
   ]
 }
