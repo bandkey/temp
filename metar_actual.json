@@ -1,20 +1,20 @@
 {
-  "generatedAtUtc": "2026-10-15T10:28:54.544510Z",
+  "generatedAtUtc": "2026-10-15T10:29:57.471834Z",
   "baseExpectedHourUtc": "2026101510",
   "targetHourUtc": "2026101510",
   "expectedHourUtc": "2026101510",
-  "pendingFreshUpdate": true,
+  "pendingFreshUpdate": false,
   "data": [
     {
       "code": "AEP",
       "label": "Aeroparque",
       "icaoId": "SABE",
       "station_id": "SABE",
-      "rawOb": "151000Z 18005KT 150V220 2000 DZ BKN008 OVC013 15/14 Q1020 NOSIG",
-      "raw_text": "151000Z 18005KT 150V220 2000 DZ BKN008 OVC013 15/14 Q1020 NOSIG",
-      "obsTime": "2026-10-15T10:00:00Z",
+      "rawOb": "151027Z 18005KT 150V230 7000 -DZ BKN006 BKN015 OVC031 15/14 Q1020 NOSIG",
+      "raw_text": "151027Z 18005KT 150V230 7000 -DZ BKN006 BKN015 OVC031 15/14 Q1020 NOSIG",
+      "obsTime": "2026-10-15T10:27:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-10-15T10:28:54.544510Z",
+      "updatedAt": "2026-10-15T10:29:57.471834Z",
       "reportHourUtc": "2026101510",
       "baseExpectedHourUtc": "2026101510",
       "targetHourUtc": "2026101510",
@@ -27,17 +27,17 @@
       "label": "Ezeiza",
       "icaoId": "SAEZ",
       "station_id": "SAEZ",
-      "rawOb": "150926Z 17007KT 2000 -DZ OVC004 14/14 Q1020 NOSIG",
-      "raw_text": "150926Z 17007KT 2000 -DZ OVC004 14/14 Q1020 NOSIG",
-      "obsTime": "2026-10-15T09:26:00Z",
+      "rawOb": "151000Z 17006KT 3000 -DZ OVC004 14/14 Q1020 NOSIG",
+      "raw_text": "151000Z 17006KT 3000 -DZ OVC004 14/14 Q1020 NOSIG",
+      "obsTime": "2026-10-15T10:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-10-15T10:28:54.544510Z",
-      "reportHourUtc": "2026101509",
+      "updatedAt": "2026-10-15T10:29:57.471834Z",
+      "reportHourUtc": "2026101510",
       "baseExpectedHourUtc": "2026101510",
       "targetHourUtc": "2026101510",
       "expectedHourUtc": "2026101510",
-      "freshForExpectedHour": false,
-      "error": "Esperando actualización de 2026101510…"
+      "freshForExpectedHour": true,
+      "error": null
     }
   ]
 }
