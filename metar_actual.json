@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-11-05T07:51:04.939915Z",
+  "generatedAtUtc": "2026-11-05T07:52:07.847839Z",
   "baseExpectedHourUtc": "2026110507",
   "targetHourUtc": "2026110507",
   "expectedHourUtc": "2026110507",
@@ -14,7 +14,7 @@
       "raw_text": "050600Z VRB02KT CAVOK 17/09 Q1012 NOSIG",
       "obsTime": "2026-11-05T06:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-11-05T07:51:04.939915Z",
+      "updatedAt": "2026-11-05T07:52:07.847839Z",
       "reportHourUtc": "2026110506",
       "baseExpectedHourUtc": "2026110507",
       "targetHourUtc": "2026110507",
@@ -27,17 +27,17 @@
       "label": "Ezeiza",
       "icaoId": "SAEZ",
       "station_id": "SAEZ",
-      "rawOb": "050600Z 28003KT CAVOK 12/10 Q1011 NOSIG",
-      "raw_text": "050600Z 28003KT CAVOK 12/10 Q1011 NOSIG",
-      "obsTime": "2026-11-05T06:00:00Z",
+      "rawOb": "050700Z 29004KT CAVOK 12/10 Q1011 NOSIG",
+      "raw_text": "050700Z 29004KT CAVOK 12/10 Q1011 NOSIG",
+      "obsTime": "2026-11-05T07:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-11-05T07:51:04.939915Z",
-      "reportHourUtc": "2026110506",
+      "updatedAt": "2026-11-05T07:52:07.847839Z",
+      "reportHourUtc": "2026110507",
       "baseExpectedHourUtc": "2026110507",
       "targetHourUtc": "2026110507",
       "expectedHourUtc": "2026110507",
-      "freshForExpectedHour": false,
-      "error": "Esperando actualización de 2026110507…"
+      "freshForExpectedHour": true,
+      "error": null
     }
   ]
 }
