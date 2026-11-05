@@ -1,9 +1,9 @@
 {
-  "generatedAtUtc": "2026-11-05T06:09:59.811617Z",
-  "baseExpectedHourUtc": "2026110505",
-  "targetHourUtc": "2026110506",
-  "expectedHourUtc": "2026110506",
-  "pendingFreshUpdate": false,
+  "generatedAtUtc": "2026-11-05T07:10:00.068307Z",
+  "baseExpectedHourUtc": "2026110507",
+  "targetHourUtc": "2026110507",
+  "expectedHourUtc": "2026110507",
+  "pendingFreshUpdate": true,
   "data": [
     {
       "code": "AEP",
@@ -14,13 +14,13 @@
       "raw_text": "050600Z VRB02KT CAVOK 17/09 Q1012 NOSIG",
       "obsTime": "2026-11-05T06:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-11-05T06:09:59.811617Z",
+      "updatedAt": "2026-11-05T07:10:00.068307Z",
       "reportHourUtc": "2026110506",
-      "baseExpectedHourUtc": "2026110505",
-      "targetHourUtc": "2026110506",
-      "expectedHourUtc": "2026110506",
-      "freshForExpectedHour": true,
-      "error": null
+      "baseExpectedHourUtc": "2026110507",
+      "targetHourUtc": "2026110507",
+      "expectedHourUtc": "2026110507",
+      "freshForExpectedHour": false,
+      "error": "Esperando actualización de 2026110507…"
     },
     {
       "code": "EZE",
@@ -31,13 +31,13 @@
       "raw_text": "050600Z 28003KT CAVOK 12/10 Q1011 NOSIG",
       "obsTime": "2026-11-05T06:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-11-05T06:09:59.811617Z",
+      "updatedAt": "2026-11-05T07:10:00.068307Z",
       "reportHourUtc": "2026110506",
-      "baseExpectedHourUtc": "2026110505",
-      "targetHourUtc": "2026110506",
-      "expectedHourUtc": "2026110506",
-      "freshForExpectedHour": true,
-      "error": null
+      "baseExpectedHourUtc": "2026110507",
+      "targetHourUtc": "2026110507",
+      "expectedHourUtc": "2026110507",
+      "freshForExpectedHour": false,
+      "error": "Esperando actualización de 2026110507…"
     }
   ]
 }
