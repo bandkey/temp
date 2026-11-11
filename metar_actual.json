@@ -1,24 +1,24 @@
 {
-  "generatedAtUtc": "2026-11-11T03:09:59.487330Z",
-  "baseExpectedHourUtc": "2026111102",
-  "targetHourUtc": "2026111103",
-  "expectedHourUtc": "2026111103",
-  "pendingFreshUpdate": false,
+  "generatedAtUtc": "2026-11-11T04:09:59.885465Z",
+  "baseExpectedHourUtc": "2026111103",
+  "targetHourUtc": "2026111104",
+  "expectedHourUtc": "2026111104",
+  "pendingFreshUpdate": true,
   "data": [
     {
       "code": "AEP",
       "label": "Aeroparque",
       "icaoId": "SABE",
       "station_id": "SABE",
-      "rawOb": "110300Z 12005KT CAVOK 21/17 Q1018 NOSIG",
-      "raw_text": "110300Z 12005KT CAVOK 21/17 Q1018 NOSIG",
-      "obsTime": "2026-11-11T03:00:00Z",
+      "rawOb": "110400Z 12005KT CAVOK 21/18 Q1018 NOSIG",
+      "raw_text": "110400Z 12005KT CAVOK 21/18 Q1018 NOSIG",
+      "obsTime": "2026-11-11T04:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-11-11T03:09:59.487330Z",
-      "reportHourUtc": "2026111103",
-      "baseExpectedHourUtc": "2026111102",
-      "targetHourUtc": "2026111103",
-      "expectedHourUtc": "2026111103",
+      "updatedAt": "2026-11-11T04:09:59.885465Z",
+      "reportHourUtc": "2026111104",
+      "baseExpectedHourUtc": "2026111103",
+      "targetHourUtc": "2026111104",
+      "expectedHourUtc": "2026111104",
       "freshForExpectedHour": true,
       "error": null
     },
@@ -31,13 +31,13 @@
       "raw_text": "110300Z 07007KT CAVOK 20/15 Q1018 TEMPO 8000 RA NSC",
       "obsTime": "2026-11-11T03:00:00Z",
       "source": "linux-noaa-txt",
-      "updatedAt": "2026-11-11T03:09:59.487330Z",
+      "updatedAt": "2026-11-11T04:09:59.885465Z",
       "reportHourUtc": "2026111103",
-      "baseExpectedHourUtc": "2026111102",
-      "targetHourUtc": "2026111103",
-      "expectedHourUtc": "2026111103",
-      "freshForExpectedHour": true,
-      "error": null
+      "baseExpectedHourUtc": "2026111103",
+      "targetHourUtc": "2026111104",
+      "expectedHourUtc": "2026111104",
+      "freshForExpectedHour": false,
+      "error": "Esperando actualización de 2026111104…"
     }
   ]
 }
